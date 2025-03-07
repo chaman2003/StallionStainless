@@ -8,9 +8,8 @@ import MainNavigation from "@/components/layout/main-navigation"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "ArchiExpo - Architecture & Design Marketplace",
-  description: "B2B marketplace for architecture and design products",
-    generator: 'v0.dev'
+  title: "Stallion Stainless - Furniture & Design Marketplace",
+  description: "B2B marketplace for furniture and design products",
 }
 
 export default function RootLayout({
